@@ -1,0 +1,9 @@
+{
+	"ip":"Rudrssmp.aternos.me",
+	"port":29968 ,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 888444",
+	"login-cmd":"/login 888444"
+}
